@@ -43,3 +43,4 @@ tensorflow-*
 *.key
 
 models/hybrid_convnext_vgg/model.weights.h5
+models/hybrid_convnext_vgg/model.weights.h5
