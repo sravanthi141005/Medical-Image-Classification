@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+cv311/
+
+# Datasets
+data/
+datasets/
+
+# Model checkpoints / weights
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Training outputs
+logs/
+results/
+runs/
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# CUDA/package dump files
+nvidia-*
+torch-*
+tensorflow-*
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+*.key
+
